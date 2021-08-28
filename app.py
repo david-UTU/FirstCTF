@@ -24,6 +24,11 @@ def common():
     return render_template('/CommonTools/common.html')
 
 
+@app.route('/Submit/submit/')  # Simple cipher tools home page
+def submit():
+    return render_template('/Submit/submit.html')
+
+
 @app.route('/CommonTools/charFreq/')  # Character frequency home page
 def charFreq():
     return render_template('/CommonTools/charFreq.html')
