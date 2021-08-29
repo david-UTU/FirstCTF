@@ -1,0 +1,11 @@
+Our accounting department is in absolute shambles. 
+
+All the macros the accounting department uses were written by the now-fired nightmare known as Stacy. 
+
+She replaced her arithmetic operations with strange functions in a strange language for snakes.
+
+Her compare file accepts two arguments (a, b) which are compared. And a is evaluated against b.
+
+We cannot access the budgets directly, so we just have to input the file keys.
+
+Help us find out what her messages mean. We want whichever one means ~~greater than~~. 
